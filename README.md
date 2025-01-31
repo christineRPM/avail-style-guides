@@ -92,6 +92,6 @@
 
 ## Typography
 
-| Usage | Font | Link |
-|:--:|:--:|:--:|
-| Primary | THICCCBOI | [Download](https://fontesk.com/thicccboi-typeface/) |
+| Usage | Font | Download Link | Github |
+|:--:|:--:|:--:|:--:|
+| Primary | THICCCBOI | [Download](https://fontesk.com/thicccboi-typeface/) | [Github](https://github.com/wonderunit/font-thicccboi) |
